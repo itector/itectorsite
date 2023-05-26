@@ -1,5 +1,5 @@
 ---
-title: "mysite"
+title: "Izzy Tector's Website"
 ---
 
 This is a Quarto website.
