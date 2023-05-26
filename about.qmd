@@ -1,5 +1,19 @@
 ---
-title: "About"
+title: "About Me"
+image: eliphoto.jpg
+about: 
+    template: trestles
+    image-shape: rounded
+    image-width: 23em
+    links:
+    - text: ELI Project
+      href: https://www.unearthingsouptonuts.com/
 ---
 
-About this site
+# Eli Project
+
+The ELI project I am currently working on has a website to teach UCSB students (or whoever might want to learn!) about environmental food labels. We hosted a workshop (seen in the picture!) and I helped create this website with my team!
+
+# CCBER Internship
+
+I am currently interning for CCBER on campus and helping restore some of the lands that CCBER manages. It is a really exciting and fun thing to do because there's a lot of adventure and learning! We recently went on a wild radish hunt, seen on the picture on the home page.

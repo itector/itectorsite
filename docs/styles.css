@@ -1,1 +1,21 @@
 /* css styles */
+/* Change font for the entire website */
+body {
+  font-family: "Times New Roman", sans-serif;
+}
+
+/* Change font for headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica", sans-serif;
+  color: cornsilk;
+}
+
+/* Change font for paragraphs */
+p {
+  font-family: "Times New Roman", serif;
+}
+
+a {
+  color: darkseagreen;
+}
+

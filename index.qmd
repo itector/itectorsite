@@ -1,7 +1,39 @@
 ---
 title: "Izzy Tector's Website"
+image: radish.jpg
+about: 
+    template: trestles
+    image-shape: rounded
+    image-width: 23em
+    links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/isabelle-tector-958129250/
+    - text: GitHub
+      href: https://github.com/itector
+    - text: Email
+      href: mailto:itector@ucsb.edu
 ---
 
-This is a Quarto website.
+Hello! My name is Izzy Tector and I am a second year Environmental Studies major at UCSB from Washington State.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Education
+
+**BS in Environmental Studies** (2021-present)
+
+University of California, Santa Barbara
+
+# Experience
+
+**Restoration Intern** (2023-present)
+
+Helping Chris Berry at the Lagoon Island restoring native plants
+
+**Environmental Leadership Incubator Project** (2022-present)
+
+Participating in the Environmental Leadership Incubator and creating an educational campaign for environmental food labels
+
+**Sandwich Artist** (2022)
+
+Sandwich maker at Homegrown in Redmond, WA
+
+# 
